@@ -2,4 +2,4 @@
 Assignment 2 - Three Deployed HTML5 Templates
 
 - changed the titles
--changed some styles(colors)
+- changed some styles(colors)
